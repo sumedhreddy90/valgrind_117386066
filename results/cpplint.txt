@@ -1,0 +1,5 @@
+sumedh@SUMEDH:~/valgrind_117386066$ cpplint $(find . -name *.cpp | grep -vE -e "./build")
+Done processing ./app/AnalogSensor.cpp
+Done processing ./app/main.cpp
+Done processing ./test/main.cpp
+Done processing ./test/test.cpp

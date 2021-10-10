@@ -16,7 +16,9 @@
 int main() {
     AnalogSensor lightSensor(5);
     std::cout << "Averaged sensor reading: " << lightSensor.Read() << std::endl;
-    bool terminator = true;  // Avoiding memory leaks by defining the variable
+    bool terminator =
+    (lightSensor.Read() > 0) ? true : false;
+    // Avoiding memory leaks by defining the variable
     if ( terminator ) {
         std::cout << "DONE" << std::endl;
     }

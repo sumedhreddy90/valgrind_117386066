@@ -27,7 +27,7 @@ AnalogSensor::~AnalogSensor() {
 }
 /**
 *	@brief Read function which returns the average  of samples
-*	@param Nome
+*	@param None
 *	@return int Result
 */
 int AnalogSensor::Read() {
