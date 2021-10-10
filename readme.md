@@ -1,6 +1,6 @@
 # Valgrind Assignment
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+[![Build Status](https://app.travis-ci.com/sumedhreddy90/valgrind_117386066.svg?branch=main)](https://app.travis-ci.com/sumedhreddy90/valgrind_117386066)
+[![Coverage Status](https://coveralls.io/repos/github/sumedhreddy90/valgrind_117386066/badge.svg?branch=main)](https://coveralls.io/github/sumedhreddy90/valgrind_117386066?branch=main)
 ---
 
 ## Overview
