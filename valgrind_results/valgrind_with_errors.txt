@@ -1,4 +1,4 @@
------Error 1-----
+-----Error without full check-----
 
 ==7442== Memcheck, a memory error detector
 ==7442== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
@@ -27,7 +27,7 @@ Averaged sensor reading: 10
 ==7442== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
 
 
-----Error 2----
+----Error with full check----
 
 sumedh@SUMEDH:~/valgrind/cpp-boilerplate/build/app$ valgrind --leak-check=full ./shell-app
 ==8203== Memcheck, a memory error detector
